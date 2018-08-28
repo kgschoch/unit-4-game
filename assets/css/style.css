@@ -1,0 +1,46 @@
+#header {
+  background-color: rebeccapurple;
+  border: 5px solid goldenrod;
+  color: whitesmoke;
+  text-align: center;
+}
+
+#directionBox {
+  background-color: rebeccapurple;
+  border: 5px solid goldenrod;
+  color: whitesmoke;
+  text-align: center;
+}
+
+#randomNumber {
+  border: 3px solid rebeccapurple;
+  color: whitesmoke;
+  background-color: goldenrod;
+  text-align: center;
+}
+
+#winsLossesBox {
+  border:3px solid goldenrod;
+  background-color:rebeccapurple;
+  color:whitesmoke;
+  text-align: center;
+}
+
+#crystalBox {
+  border: 5px solid rebeccapurple;
+  text-align: center;
+}
+
+#totalScoreText {
+  border: 3px solid rebeccapurple;
+  background-color: goldenrod;
+  color: whitesmoke;
+  text-align: center;
+}
+
+#score {
+  border: 3px solid rebeccapurple;
+  background-color: goldenrod;
+  color: whitesmoke;
+  text-align: center;
+}
